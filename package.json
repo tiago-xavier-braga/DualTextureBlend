@@ -2,11 +2,11 @@
   "name": "com.tiagobraga.dualtextureblend",
   "version": "0.1.0",
   "displayName": "Dual Texture Blend",
-  "description": "",
+  "description": "This Unity package provides a shader that blends two textures seamlessly on a single object. Users can control which texture is more dominant, allowing for dynamic texture transitions and creative visual effects.",
   "unity": "2022.3",
-  "documentationUrl": "",
-  "changelogUrl": "",
-  "licensesUrl": "",
+  "documentationUrl": "https://github.com/tiago-xavier-braga/DualTextureBlend/blob/main/README.md",
+  "changelogUrl": "https://github.com/tiago-xavier-braga/DualTextureBlend/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/tiago-xavier-braga/DualTextureBlend/blob/main/LICENSE.md",
   "keywords": [
     "dualtextureblend",
     "shader"
